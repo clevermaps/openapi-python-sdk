@@ -62,6 +62,8 @@ The `demo.py` file demonstrates how to use the wrapper for common actions. Here 
    view = metadata_wrapper.create_view(project_id, view_object)
    print(f"View Created with ID: {view.id}")
    ```
+   
+More information about `views` can be found in official documentation [here](https://docs.clevermaps.io/docs/views).
 
 ### Running the Examples
 
